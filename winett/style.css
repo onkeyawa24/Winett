@@ -1,0 +1,47 @@
+
+.upload{
+color:black;
+border-radius:5px;
+padding:3px;
+
+}
+.upload:hover{
+cursor:pointer;
+background:#c20b0b;
+border:1px solid #c20b0b;
+box-shadow:0 0 5px rgba(0,0,0,.75)
+}
+#file{
+color:green;
+padding:1px;
+}
+#upload{
+margin-left:15%;
+}
+#noerror{
+color:green;
+text-align:left
+}
+#error{
+color:red;
+text-align:left
+}
+#img{
+background-color: red; color: white; padding-top: 3px; 
+padding-right: 6px; padding-bottom: 3px; padding-left: 6px; border-radius: 3px;
+width:17px;
+border:none;
+height:17px;
+margin-left:-20px;
+margin-bottom:1px
+}
+#img:hover{cursor: pointer; }
+.abcd{
+text-align:center
+}
+.abcd img{
+position: relative;
+height:50px;
+width:50px;
+padding:1px;
+}
