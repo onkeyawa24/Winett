@@ -1,0 +1,53 @@
+	body{
+		margin-left: 10px;margin-right: 10px;background-color: silver;
+	}
+	html{
+		background-color: #25383c;;
+	}
+	.sandie > img{	
+		background-color: white;padding: 2px;border-radius: 100%; max-width: 80px;
+	} 
+	.logoImage{
+		min-height: 30px;max-height: 35px; min-width: 30px; max-width: 35px;
+	}
+	.userdetails  {
+	 	background-color: transparent; max-width: 44px; max-height: 44px;
+	} 
+	.user_name{
+		font-size: 1em; padding: left; padding-left: 1%; margin-left: 1%; color: darkgrey;
+	}
+	.searche{
+		position: absolute; right: 15%; top: 6px; padding-left: 6px;margin-right: 10%;
+		margin-left: 15%; max-width: 300px;min-width: 250px;margin-top: 5px;
+		max-height: 44px; border: 1px solid silver; border-radius: 20px;
+	}
+	li.a{
+		list-style-type: circle; list-style: none;
+	}
+	.display{
+		color: white;
+	}
+	.lists{
+		border-top: 1px solid white; background-color: #25383c; color: white; height: 29px;  
+	}
+	.btnz2{
+		color: white; font-weight: bold; margin-left: 1%;	
+	}
+	.btnz{
+		color: lightgrey; margin-left: 1%;	
+	}
+	.navb{
+		background-color: #25383c !important;
+	}
+	.bio{
+		color:grey;font-size: 80%;padding-left: 3%;
+	}
+	.navbar-fixed-top{
+		min-height: 30px;max-height: 50px;background-color: #25383c;
+	}
+	.pin, .unpin{
+		margin-left: 12%;background-color: grey;border:2px solid white;
+		border-radius: 10px;padding:3px 6px 3px 6px;
+	}
+	
+	 

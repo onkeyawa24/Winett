@@ -1,0 +1,87 @@
+            .row{
+                width: 100%;
+            }
+            .like_section{
+                width: 100%;
+                margin-top: -10px;
+            }
+            .image1{
+                border-radius: 100%;
+                margin-right:5px;
+            }
+             
+            .col-md-12{ 
+                width:100%;
+                padding:5px;
+            }
+            .col-md-4{
+                margin-right: 4%;
+                width:4px;
+                margin-bottom: -4px;
+            }
+            .myModals{
+                background-color: silver;
+                
+            }
+            .myModal{
+                background-color: white;
+            }
+            .my{
+                
+                margin-left: 10%;
+                margin-right: 30%;
+
+            }
+            .container{
+                background-color: transparent;
+            }
+            .user_history{
+                width: 100%;
+                color: black;
+                background-color: transparent;
+            }
+            .myMenu{
+                background-color: transparent;
+            }
+            .panel{
+                background-color: transparent;
+            }
+            .sharing{
+                color:black;
+                margin-left: 5%;
+                margin-right: 5%;
+                margin-top: 2%;
+                margin-bottom: 2%;
+                border-left:2px solid silver;
+                padding: 12px;
+                background-color:white;
+                width:auto;
+            }
+            .actual{
+                padding-left: 5px;
+                color: black;
+            }
+            .commenty{
+                padding: 4px 8px 4px 8px;
+                border-bottom: 1px solid grey;
+                background-color: white;
+                margin:1px;
+                border-radius: 3px;
+            }
+            .mi{
+                padding: 3px;
+                margin-right: 50px;
+            }
+            .myDrops{
+                margin-top: 10px;
+                margin-left: 95%;
+                text-align: right;
+                margin-right: 1px;
+            }
+            .texts{
+                background-color: white;
+                border: 1px solid silver;
+                color: black;
+                border-radius: 5px;
+                padding: 3px;
+            }
